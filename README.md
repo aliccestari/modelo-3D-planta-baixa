@@ -29,6 +29,10 @@
 - Faces: 94.341
 - Triângulos: 241.012
 
+<h3>Especificações do projeto na Unity:</h3>
+
+- Os scripts foram escritos em C# com a ajuda do colega Vinícius C. Teixeira
+
 
 <a href="https://www.youtube.com/watch?v=9UrBAzpAPdE">Clique aqui para ver o vídeo da navageção em VR</a>
 
