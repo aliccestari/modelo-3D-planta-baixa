@@ -33,6 +33,6 @@
 
 - Os scripts foram escritos em C# com a ajuda do colega Vinícius C. Teixeira
 
-
-<a href="https://www.youtube.com/watch?v=9UrBAzpAPdE">Clique aqui para ver o vídeo da navageção em VR</a>
-
+<h3>Mozilla Hubs:</h3>
+O modelo também foi colocado na plataforma <a href="https://hubs.mozilla.com/">Mozilla Hubs</a>, que é uma plataforma interativa de realidade virtual.
+<a href="https://f0fbb746b5.us1.myhubs.net/link/cS9YTNT">Neste link</a> é possível navegar pelo tribunal.
